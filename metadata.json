@@ -1,0 +1,8 @@
+{
+  "name": "SignBuddy AI",
+  "description": "An intelligent, adaptive learning companion for Deaf and Hard of Hearing children using AI for sign recognition, storytelling, and personalized lesson planning.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
